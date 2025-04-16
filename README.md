@@ -31,17 +31,15 @@ Enable wheelchair navigation using short voice commands (e.g., “forward”, �
 ---
 
 ## Project Structure
+
 ```bash
 wheelchair-voice-control-ml/
 ├── wheelchair_game_v2.py      # Game + microphone interface
 ├── final_model.joblib         # Trained classifier (binary label prediction)
 ├── scaler.joblib              # Feature scaler
 ├── README.md                  # This file
-'''
+```
 ---
-
-## Disclaimer
-
-This project builds upon a base Pygame framework provided by the course instructor.
-All feature extraction, model training, real-time audio classification, and system integration were developed independently by the student.
----
+**Disclaimer**  
+This project builds upon a base Pygame framework provided by the course instructor.  
+All machine learning integration, feature engineering, audio processing, and real-time interaction were developed independently by the student (Bruno Su Du).
