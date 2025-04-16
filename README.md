@@ -37,3 +37,8 @@ wheelchair-voice-control-ml/
 ├── final_model.joblib         # Trained classifier (binary label prediction)
 ├── scaler.joblib              # Feature scaler
 ├── README.md                  # This file
+
+## Disclaimer
+
+This project builds upon a base Pygame framework provided by the course instructor.
+All feature extraction, model training, real-time audio classification, and system integration were developed independently by the student.
