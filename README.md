@@ -30,7 +30,7 @@ Enable wheelchair navigation using short voice commands (e.g., “forward”, �
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```bash
 wheelchair-voice-control-ml/
 ├── wheelchair_game_v2.py      # Game + microphone interface
