@@ -37,7 +37,7 @@ wheelchair-voice-control-ml/
 ├── final_model.joblib         # Trained classifier (binary label prediction)
 ├── scaler.joblib              # Feature scaler
 ├── README.md                  # This file
-
+'''
 ---
 
 ## Disclaimer
